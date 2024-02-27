@@ -1,0 +1,47 @@
+.title-label {
+    -fx-font-size: 48px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #38220F;
+}
+
+.sub-title-label {
+    -fx-font-size: 24px;
+    -fx-text-fill: #38220F;
+    -fx-padding: 0 0 20 0; /* أعلى يمين أسفل يسار */
+
+}
+
+.card {
+    -fx-border-color: transparent;
+    -fx-border-radius: 12;
+    -fx-background-radius: 12;
+}
+
+.card-title {
+    -fx-font-size: 24px;
+    -fx-text-fill: #140C05;
+}
+
+.card-volume {
+    -fx-font-size: 12px;
+    -fx-text-fill: #140C05;
+}
+
+.control-image {
+    -fx-cursor: hand; /* يغير شكل المؤشر إلى يد عند المرور فوق الصورة */
+}
+
+
+.quantity-label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #140C05;
+}
+
+.card-price {
+    -fx-font-size: 18px;
+    -fx-text-fill: #140C05;
+}
+
+.delete-icon {
+    -fx-cursor: hand; /* تغيير مؤشر الفأرة إلى يد */
+}

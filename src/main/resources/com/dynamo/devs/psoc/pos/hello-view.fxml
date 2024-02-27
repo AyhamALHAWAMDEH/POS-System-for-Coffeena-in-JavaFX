@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+<VBox styleClass="my-vbox" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.dynamo.devs.psoc.pos.HelloController">
+
+
+</VBox>
+
+
